@@ -146,4 +146,4 @@ Strums, tremolos, glissandos, ... are not supported.
 
 ### Contact
 
-celestialphineas [AT] hotmail [DOT] com
+celestialphineas [AT] outlook [DOT] com
